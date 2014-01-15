@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.hdstreams" name="HD-Streams Addons" version="2.5" provider-name="www.hdstreams.ch">
+<addon id="plugin.video.istreamtv" name="HD-Streams Addons" version="2.5" provider-name="www.hdstreams.ch">
 	<extension point="xbmc.addon.repository" name="HD-Streams Addons">
 		<info compressed="false">http://hdstreams.ch/repo/addons.xml</info>
 		<checksum>http://hdstreams.ch/repo/addons.xml.md5</checksum>
