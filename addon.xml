@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.hdstreams" name="HD-Streams Repository" version="2.5" provider-name="www.hdstreams.ch">
-	<extension point="xbmc.addon.repository" name="HD-Streams Repository">
-		<info compressed="false">http://plugin.hdstreams.ch/addons.xml</info>
-		<checksum>http://plugin.hdstreams.ch/addons.xml.md5</checksum>
-		<datadir zip="true">http://plugin.hdstreams.ch/</datadir>
+<addon id="repository.hdstreams.addons" name="HD-Streams Repository" version="2.5" provider-name="www.hdstreams.ch">
+	<extension point="xbmc.addon.repository" name="HD-Streams Addons">
+		<info compressed="false">http://plugin.hdstreams.ch/repo/addons.xml</info>
+		<checksum>http://plugin.hdstreams.ch/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://plugin.hdstreams.ch/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>XBMC Addons</summary>
