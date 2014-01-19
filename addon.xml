@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.hdstreams.addons" name="HD-Streams Repository" version="1.0" provider-name="www.hdstreams.ch">
+<addon id="repository.hdstreams.addons" name="HD-Streams Repository" version="1.0" provider-name="HD-Streams">
 	<extension point="xbmc.addon.repository" name="HD-Streams Addons">
-		<info compressed="false">http://plugin.hdstreams.ch/test/addons.xml</info>
-		<checksum>http://plugin.hdstreams.ch/test/addons.xml.md5</checksum>
-		<datadir zip="false">http://plugin.hdstreams.ch/test/</datadir>
+		<info compressed="false">http://plugin.hdstreams.ch/xbmc/addons.xml</info>
+		<checksum>http://plugin.hdstreams.ch/xbmc/addons.xml.md5</checksum>
+		<datadir zip="false">http://plugin.hdstreams.ch/xbmc/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>XBMC Addons</summary>
-		<description></description>
-		<disclaimer></disclaimer>
+		<summary>WATCH HIGH QUALITY TV-STREAMS VIA ONLINE</summary>
+		<description>FOR MORE INFORMATION, VISIT OUR WEBSITE WWW.HDSTREAMS.CH</description>
+		<disclaimer>NO MEDIA CONTENT IS HOSTED OR STREAMED BY THE MAKERS OF THIS ADDON. SOME PARTS OF THIS ADDON MAY NOT BE LEGAL IN YOUR COUNTRY OF RESIDENCE - PLEASE CHECK WITH YOUR LOCAL LAWS BEFORE INSTALLING.</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
