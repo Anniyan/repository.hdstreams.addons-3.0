@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.hdstreams.addons" name="HD-Streams Repository" version="1.0" provider-name="HD-Streams">
 	<extension point="xbmc.addon.repository" name="HD-Streams Addons">
-		<info compressed="false">http://plugin.hdstreams.ch/xbmc/addons.xml</info>
-		<checksum>http://plugin.hdstreams.ch/xbmc/addons.xml.md5</checksum>
-		<datadir zip="false">http://plugin.hdstreams.ch/xbmc/</datadir>
+		<info compressed="false">http://plugin.hdstreams.ch/xbmc/newversion/addons.xml</info>
+		<checksum>http://plugin.hdstreams.ch/xbmc/newversion/addons.xml.md5</checksum>
+		<datadir zip="false">http://plugin.hdstreams.ch/xbmc/newversion/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>WATCH HIGH QUALITY TV-STREAMS VIA ONLINE</summary>
