@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="HD-Streams Addons">
 		<info compressed="true">http://plugin.hdstreams.ch/tvos/addons.xml</info>
 		<checksum>http://plugin.hdstreams.ch/tvos/addons.xml.md5</checksum>
-		<datadir zip="false">http://plugin.hdstreams.ch/tvos/</datadir>
+		<datadir zip="true">http://plugin.hdstreams.ch/tvos/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>WATCH HIGH QUALITY TV-STREAMS VIA ONLINE</summary>
